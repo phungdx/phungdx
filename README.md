@@ -13,4 +13,3 @@
 - **Links:** [My LinkedIn](https://www.linkedin.com/in/phungdao99/)
 
 <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=phungdx&count_private=true&show_icons=true&hide_border=false">
-1
