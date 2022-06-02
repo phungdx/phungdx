@@ -9,10 +9,8 @@
  </div>
 
 - **Skills:** AI, Computer Vision, Web & App development.
-- **Personal Blog:** [https://aicurious.io](https://aicurious.io)
-- **My projects:** [https://aicurious.io/portfolio/](https://aicurious.io/portfolio/)
-- **Coding languages (mostly use):** Python, C/C++, Javascript.
-- **Links:** [My LinkedIn](https://www.linkedin.com/in/vietanhdev/), [Daisykit AI](https://daisykit.org/), [VNOpenAI.org](https://vnopenai.org/).
+- **Coding languages (mostly use):** Python, C/C++.
+- **Links:** [My LinkedIn](https://www.linkedin.com/in/phungdao99/)
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=vietanhdev&count_private=true&show_icons=true&hide_border=false">
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=phungdx&count_private=true&show_icons=true&hide_border=false">
 1
